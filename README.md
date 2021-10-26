@@ -1,3 +1,2 @@
 # ..-.assessment-remote
-remote repo
-hi hello
+My life is my message
