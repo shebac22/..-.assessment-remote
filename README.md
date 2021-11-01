@@ -1,2 +1,1 @@
-# ..-.assessment-remote
-My life is my message
+#.assessment-remote
